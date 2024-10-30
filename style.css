@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2 {
+    color: #2d2c50;
+}
+
+p {
+    color: #062d55;
+}
+
+#beranda, #profil, #layanan, #galeri, #kontak {
+    padding: 60px 0;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
